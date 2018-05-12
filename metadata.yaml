@@ -1,0 +1,27 @@
+_repo: '----_27088'
+_version: 0.1.0
+alternative_title: Nan Bu Xin Shu
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Qian, Yi, jin shi 999
+    alias: 錢易
+    gutenberg_agent_id: '32450'
+    url: http://www.gutenberg.org/2009/agents/32450
+description: ''
+gutenberg_issued: '2008-10-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27088'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DS'
+- !lcsh 'China -- History -- Tang dynasty, 618-907 -- Anecdotes'
+- !lcsh 'China -- History -- Five dynasties and the Ten kingdoms, 907-979 -- Anecdotes'
+title: 南部新書
+url: http://www.gutenberg.org/ebooks/27088
